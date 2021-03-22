@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-<img alt="logo" width="30%" height="20%" src="https://github.com/Greenvahn/Greenvahn/github_banner.png">
+<img width="100%" height="100%" src="https://github.com/Greenvahn/Greenvahn/blob/main/github_banner.png">
 
 Hello! I’m Saul, software engineer from Spain based in London. I’m into coding, arts, games, philosophy and sports.
 
