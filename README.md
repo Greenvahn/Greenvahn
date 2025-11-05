@@ -1,7 +1,9 @@
 <img width="100%" height="100%" src="https://github.com/Greenvahn/Greenvahn/blob/main/github_banner.png">
 
-Hello! I’m Saul, software engineer from Spain based in London. I’m into coding, arts, games, philosophy and sports.
+👋 Hi, I’m Saul — a hybrid UX Engineer and Product Designer from Spain, currently based in London.
 
-I attended my first computer class when I was seven and have always been fascinated by the world of computers, design and arts. After school I completed a degree in Industrial Design and later in Audio-Visual Communications. To deepen my understanding of computer science, I moved to Scotland to study Computer Arts. Since then, I have worked first in multiple roles as digital designer accross Europe to finally land in the UK where I spent working last few years as a software engineer in the field of e-learning. 
+I attended my first computer class when I was seven and and this first computer experience ignited my curiosity about how things work. Since them I started a journey that blends creative design and technical implementation. I hold degrees in Industrial Design and Audio-Visual Communications, and later deepened my technical foundation with a specialization in Computer Arts. 
 
-Check out [my website](https://greenslash.dev/) for my latest projects or get in touch on [Twitter](https://twitter.com/Greenvahn). 
+In my free time, I prototype web apps, experiment with new tools, and explore how emerging tech can elevate user-centered design. Whether I’m sketching flows or shipping components, I’m always optimizing for clarity, usability, and delight.
+
+Check out [my website](https://greenslash.dev/). 
